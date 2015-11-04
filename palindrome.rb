@@ -1,4 +1,3 @@
-require 'pry'
 class Palindrome
   attr_reader :string
 
